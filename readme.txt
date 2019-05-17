@@ -5,4 +5,4 @@ Git tracks changes of files.
 git push add origin git@github.com:yinxuxu@learngit.git
 git push -u origin master
 git push origin master
-creating a new branck is quick.
+creating a new branck is quick AND simple.
