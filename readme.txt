@@ -7,3 +7,4 @@ git push -u origin master
 git push origin master
 creating a new branck is quick and simple.
 git merge --no-ff
+bug branch.
